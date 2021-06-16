@@ -174,12 +174,12 @@ footer ul li a{
     color: #5f6368;
 }
 
-@media(max-width:748px){
+@media(max-width:770px){
     footer{
         height: 10rem;
     }
 }
-@media(max-width:479px) {
+@media(max-width:480px) {
     footer{
         height: 15rem;
     }
